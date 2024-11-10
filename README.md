@@ -138,5 +138,5 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" margin="3"/> </a> </p>
 
-<p margin="auto"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=devtanmoy&show_icons=true&locale=en&layout=compact" alt="devtanmoy"/>
+<p margin="auto"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlphaTanmoy&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"></p>
