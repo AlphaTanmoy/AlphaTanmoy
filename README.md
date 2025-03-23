@@ -30,7 +30,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: flex; gap: 15px;">
-<p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="./icons/angular.svg" alt="angular" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -42,12 +41,9 @@
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="./icons/c-original.svg" alt="c" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="./icons/cplusplus-original.svg" alt="cplusplus" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -59,12 +55,9 @@
 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 <img src="./icons/express-original-wordmark.svg" alt="express" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
 <img src="./icons/flask-horizontal.webp" alt="flask" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -76,12 +69,9 @@
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="./icons/html5-original-wordmark.svg" alt="html5" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
 <img src="./icons/java-original.svg" alt="java" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -93,12 +83,9 @@
 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
 <img src="./icons/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="./icons/linux-original.svg" alt="linux" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a>
 
@@ -110,12 +97,9 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="./icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="./icons/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -127,12 +111,9 @@
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="./icons/photoshop-line.svg" alt="photoshop" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="./icons/php-original.svg" alt="php" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -144,12 +125,9 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="./icons/python-original.svg" alt="python" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
 <img src="./icons/pytorch-icon.svg" alt="pytorch" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -161,12 +139,9 @@
 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> 
 <img src="./icons/redis-original-wordmark.svg" alt="redis" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-
-</p>
 </div>
-<div style="display: flex; gap: 15px;">
-<p align="left"> 
 
+<div style="display: flex; gap: 15px;">
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
 <img src="./icons/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -178,7 +153,6 @@
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="./icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-</p>
 </div>
 
 <p mergin="auto"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphaTanmoy&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
