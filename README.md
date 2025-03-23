@@ -141,6 +141,6 @@
 <img src="./icons/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 </div>
 
-<p mergin="auto"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphaTanmoy&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
+<p mergin-left="50%"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphaTanmoy&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
 <br>
 <img align="center" alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"></p>
