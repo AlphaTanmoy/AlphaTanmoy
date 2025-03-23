@@ -142,4 +142,4 @@
 </div>
 
 <p><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphaTanmoy&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
-<img alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"></p>
+<img alt="Coding" width="250" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"></p>
