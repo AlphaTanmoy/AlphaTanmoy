@@ -56,9 +56,7 @@
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
 <img src="./icons/flask-horizontal.webp" alt="flask" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-</div>
 
-<div style="display: flex; gap: 15px;">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="./icons/git-scm-icon.svg" alt="git" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
@@ -114,9 +112,7 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="./icons/getpostman-icon.svg" alt="postman" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
-</div>
 
-<div style="display: flex; gap: 15px;">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="./icons/python-original.svg" alt="python" width="40" height="40" margin="3" style="margin-right: 15px;"/> </a> 
 
