@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently learning **Angular And Kotlin**
 
-- 👨‍💻 All of my projects are available at [Vercel Hosting](https://tanmoy-portfolio-sage.vercel.app/)
+- 👨‍💻 All of my projects are available at [Vercel Hosting](https://dev.tanmoysyatraofficial.store/)
 
 - 📫 How to reach me **tanmoy.projects.preview@gmail.com**
 
